@@ -22,7 +22,7 @@
 <a href="https://deepsharma.me">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=color-depth&langs_count=7&exclude_repo=marketplace&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/dhs17y2adonchia/portfolio-macos">
+<a href="https://github.com/color-depth/Custom_Assembler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=color-depth&repo=Custom_Assembler&theme=radical" />
 </a>
 
