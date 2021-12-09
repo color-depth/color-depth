@@ -20,17 +20,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=color-depth&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" />
 </a>
 <a href="https://deepsharma.me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=color-depth&langs_count=7&exclude_repo=marketplace&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=color-depth&langs_count=7&layout=compact&theme=radical" />
 </a>
-<a href="https://github.com/color-depth/Custom_Assembler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=color-depth&repo=Custom_Assembler&theme=radical" />
+<a href="https://github.com/color-depth/custom-assembler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=color-depth&repo=custom-assembler&theme=radical" />
 </a>
 
 ### Currently Working On...
 - Portfolio website
-- Riady webapp
+- Riady - a diary keeping webapp
+- Blue Crab Torrent Client
 - Various school projects...
 
 ### Find me at...
 [My Website!](https://www.deepsharma.me) <br>
-Drop a mail to me through my website, simply click on the mail icon, type your message and send it!
