@@ -22,6 +22,9 @@
 <a href="https://deepsharma.me">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
 </a>
+<a href="https://github.com/colordepth/ar-playground">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=ar-playground&theme=radical" />
+</a>
 <a href="https://github.com/colordepth/custom-assembler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=custom-assembler&theme=radical" />
 </a>
