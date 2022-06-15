@@ -1,4 +1,4 @@
-# Hi, I am Deep Sharma (aka colordepth)
+# Hi, I am Deep
 
 
 ### Technologies & Tools
@@ -15,22 +15,28 @@
 </div>
 <hr>
 
-### Some Stats
-<a href="https://deep.moe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=colordepth&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" />
-</a>
-<a href="https://deep.moe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/colordepth/google-drive-me-crazy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=google-drive-me-crazy&theme=radical" />
-</a>
-<a href="https://github.com/colordepth/ar-playground">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=ar-playground&theme=radical" />
-</a>
-<a href="https://github.com/colordepth/custom-assembler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=custom-assembler&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=colordepth&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" />
+
+<br/>
+
+<!-- 
+<p align="center">
+  <a href="https://github.com/colordepth/google-drive-me-crazy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=google-drive-me-crazy&theme=radical" />
+  </a>
+
+  <a href="https://github.com/colordepth/custom-assembler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=custom-assembler&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/colordepth/ar-playground">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=ar-playground&theme=radical" />
+  </a>
+</p>
+ -->
 
 ### Currently Working On...
 - Portfolio website
