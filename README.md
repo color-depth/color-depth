@@ -1,4 +1,4 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there!
 
 
 ### Technologies & Tools
@@ -16,10 +16,10 @@
 <hr>
 
 ### Some Stats
-<a href="https://deepsharma.me">
+<a href="https://deep.moe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=colordepth&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" />
 </a>
-<a href="https://deepsharma.me">
+<a href="https://deep.moe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/colordepth/ar-playground">
@@ -31,9 +31,9 @@
 
 ### Currently Working On...
 - Portfolio website
-- Riady - a diary keeping webapp
 - Blue Crab Torrent Client
+- Google Drive Me Crazy
 - Various school projects...
 
 ### Find me at...
-[My Website!](https://www.deepsharma.me) <br>
+[My Website!](https://www.deep.moe) (Under design and construction)<br>
