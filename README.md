@@ -29,16 +29,16 @@
 
 ### Screenshots:
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="768">
+**1. Google Drive Me Crazy**
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="600">
+
 <br/>
 
-**^Google Drive Me Crazy**
+**2. AR Playground**
 
-<br/>
+<img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="600">
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="768">
-
-**^AR Playground**
 
 ## Coursework Projects
 
@@ -49,7 +49,7 @@ Transformer fusion of Swin and BERT :)
 
 ___
 
-### 2. Scalable RecSys for Digital Art Platforms [(Report)](https://docs.google.com/document/d/1CUleohvZhVPTh8_H2DCR-0IUqlut-sFKNsUgmIiEDP0/edit)
+### 2. Scalable RecSys for digital art platforms [(Report)](https://docs.google.com/document/d/1CUleohvZhVPTh8_H2DCR-0IUqlut-sFKNsUgmIiEDP0/edit)
 Keywords: CLIP, kNN approximation, saliency detection, distributed systems
 
 <img src="https://github.com/colordepth/colordepth/assets/88599943/6d69e6d4-49d6-4c43-8c77-e12883c374b3" width="428">
@@ -62,12 +62,13 @@ An extension of my [GDMC](https://github.com/colordepth/google-drive-me-crazy), 
 <p><img src="https://github.com/colordepth/colordepth/assets/88599943/afce54b8-d19b-483d-84bd-e6600aea5bf7" width="90%"></p>
 ___
 
-### 4. CUDA-based Decision Trees, Random Forest
+### 4. CUDA-based decision trees and random forest
+Final project for the course GPU Computing.
 _TODO: Add benchmarks_
 
 ___
 
-### 5. Multi-variate Decision Trees using Logistic Regression
+### 5. Multi-variate decision trees using logistic regression
 <p>Created a python library for the algorithm implementation with support for scikit.</p>
 
 <img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="320">
@@ -75,7 +76,7 @@ ___
 
 ___
 
-### 6. LSH Pair Matching, Network Clustering of Research Papers Big Data
+### 6. LSH pair matching, network clustering of research papers (Big Data Analytics)
 <p>Applied big data analytic techniques on research paper citation data.</p>
 <p><img src="https://github.com/colordepth/colordepth/assets/88599943/1d196cd9-d0fe-4de4-96a6-ee3098438b3b" width="512"></p>
 <p><img src="https://github.com/colordepth/colordepth/assets/88599943/775cdc6d-2e29-437f-a002-1f2f22bc316d" width="290"></p>
