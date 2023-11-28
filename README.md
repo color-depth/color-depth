@@ -52,9 +52,10 @@ Keywords: CLIP, kNN approximation, saliency detection, distributed systems
 ___
 
 ### 3. Multi-variate Decision Trees using Logistic Regression
-<p>Created a library for the same with support for scikit.</p>
+<p>Created a library for the same with support for scikit. Sample AUC scores for the model in this library.</p>
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/a2e89448-83b9-4870-b0ff-4c7b35e75e96" width="90%">
+<img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="428">
+
 
 ___
 
