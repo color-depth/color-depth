@@ -1,27 +1,17 @@
-# Hi, I am Deep
+# Hi, I am Deep!
+
+[Resume](https://drive.google.com/file/d/1WWo3d9xKMxPqDhZPSLbE-ybnxdpb9OYl/view?usp=drive_link)
 
 
-### Technologies & Tools
-<div style="display: flex">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-blue"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-critical" />
-  <img alt="HTML/CSS" src="https://img.shields.io/badge/-HTML%2FCSS-yellowgreen" />
-  <img alt="React" src="https://img.shields.io/badge/-React-3e8bc3" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node-3c873a" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express-yellow" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4ca158" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-8c5aee" />
-</div>
-<hr>
+## My Interests
+- **Deep Learning** (Recommender Systems)
+- **Data Mining** (Network Analytics)
+- **Information Retrieval** (Plaintext, Geographic Algorithms, Multimedia)
+- **Distributed Systems**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colordepth&langs_count=7&layout=compact&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=colordepth&show_icons=true&hide=stars,contribs&count_private=true&theme=radical" />
+## Public Projects
 
-<br/>
-
-<!-- 
-<p align="center">
+<p>
   <a href="https://github.com/colordepth/google-drive-me-crazy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=google-drive-me-crazy&theme=radical" />
   </a>
@@ -31,14 +21,57 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/colordepth/ar-playground">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colordepth&repo=ar-playground&theme=radical" />
   </a>
 </p>
- -->
 
-### Interests
-- Data Mining, Big Data Analytics
-- Deep Learning (Recommender Systems)
-- System Design and Scalable Information Retrieval Systems
+#### Screenshots:
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="512">
+<br/>
+<img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="512">
+
+
+
+## Coursework Projects
+
+### 1. Transformer-based OCR for stylized Japanese manga
+Transformer fusion of Swin and BERT :)
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/dbbb0d4e-f411-4cd3-a3c6-0edad978be8f" width="512">
+
+___
+
+### 2. Scalable RecSys for Digital Art Platforms [(Report)](https://docs.google.com/document/d/1CUleohvZhVPTh8_H2DCR-0IUqlut-sFKNsUgmIiEDP0/edit)
+Keywords: CLIP, kNN approximation, saliency detection, distributed systems
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/6d69e6d4-49d6-4c43-8c77-e12883c374b3" width="428">
+
+___
+
+### 3. Multi-variate Decision Trees using Logistic Regression
+<p>Created a library for the same with support for scikit.</p>
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/a2e89448-83b9-4870-b0ff-4c7b35e75e96" width="90%">
+
+___
+
+### 4. CUDA-based Decision Trees, Random Forest
+_TODO: Add benchmarks_
+
+___
+
+### 5. Kumo - Online File Storage Platform (w/ Secure Vault)
+An extension of [Google Drive Me Crazy](https://github.com/colordepth/google-drive-me-crazy), but now completely self-sufficient. It now uses distributed storage (S3), file encryption and ElasticSearch for fuzzy search indexing.
+
+<p><img src="https://github.com/colordepth/colordepth/assets/88599943/afce54b8-d19b-483d-84bd-e6600aea5bf7" width="512"></p>
+
+___
+
+### 6. LSH Pair Matching, Network Clustering of Research Papers Big Data
+<p>Applied big data analytic techniques on research paper citation data</p>
+<p><img src="https://github.com/colordepth/colordepth/assets/88599943/1d196cd9-d0fe-4de4-96a6-ee3098438b3b" width="512"></p>
+<!-- <p><img src="https://github.com/colordepth/colordepth/assets/88599943/fac1e294-b787-4849-89c9-700ce88ce6fd" width="256"></p>
+<p>Figure: Citation graph of research papers (sparse)</p> -->
