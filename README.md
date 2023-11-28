@@ -27,13 +27,18 @@
   </a>
 </p>
 
-#### Screenshots:
+### Screenshots:
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="512">
+<img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="768">
 <br/>
-<img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="512">
 
+**^Google Drive Me Crazy**
 
+<br/>
+
+<img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="768">
+
+**^AR Playground**
 
 ## Coursework Projects
 
@@ -51,12 +56,10 @@ Keywords: CLIP, kNN approximation, saliency detection, distributed systems
 
 ___
 
-### 3. Multi-variate Decision Trees using Logistic Regression
-<p>Created a library for the same with support for scikit. Sample AUC scores for the model in this library.</p>
+### 3. Kumo - Online File Storage Platform (w/ Secure Vault)
+An extension of my [GDMC](https://github.com/colordepth/google-drive-me-crazy), but now completely self-sufficient. It now uses distributed storage (S3), file encryption and ElasticSearch for fuzzy search indexing.
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="428">
-
-
+<p><img src="https://github.com/colordepth/colordepth/assets/88599943/afce54b8-d19b-483d-84bd-e6600aea5bf7" width="90%"></p>
 ___
 
 ### 4. CUDA-based Decision Trees, Random Forest
@@ -64,15 +67,18 @@ _TODO: Add benchmarks_
 
 ___
 
-### 5. Kumo - Online File Storage Platform (w/ Secure Vault)
-An extension of [Google Drive Me Crazy](https://github.com/colordepth/google-drive-me-crazy), but now completely self-sufficient. It now uses distributed storage (S3), file encryption and ElasticSearch for fuzzy search indexing.
+### 5. Multi-variate Decision Trees using Logistic Regression
+<p>Created a python library for the algorithm implementation with support for scikit.</p>
 
-<p><img src="https://github.com/colordepth/colordepth/assets/88599943/afce54b8-d19b-483d-84bd-e6600aea5bf7" width="512"></p>
+<img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="320">
+<p>^^Sample AUC scores for the algorithm provided in this library.</p>
 
 ___
 
 ### 6. LSH Pair Matching, Network Clustering of Research Papers Big Data
-<p>Applied big data analytic techniques on research paper citation data</p>
+<p>Applied big data analytic techniques on research paper citation data.</p>
 <p><img src="https://github.com/colordepth/colordepth/assets/88599943/1d196cd9-d0fe-4de4-96a6-ee3098438b3b" width="512"></p>
+<p><img src="https://github.com/colordepth/colordepth/assets/88599943/775cdc6d-2e29-437f-a002-1f2f22bc316d" width="290"></p>
+
 <!-- <p><img src="https://github.com/colordepth/colordepth/assets/88599943/fac1e294-b787-4849-89c9-700ce88ce6fd" width="256"></p>
 <p>Figure: Citation graph of research papers (sparse)</p> -->
