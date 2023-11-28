@@ -2,7 +2,6 @@
 
 [Resume](https://drive.google.com/file/d/1WWo3d9xKMxPqDhZPSLbE-ybnxdpb9OYl/view?usp=drive_link)
 
-
 ## My Interests
 - **Deep Learning** (Recommender Systems)
 - **Data Mining** (Network Analytics)
@@ -39,6 +38,7 @@
 
 <img src="https://github.com/colordepth/colordepth/assets/88599943/0641fa05-e14b-4c1a-83d8-6d635f06c2fd" width="600">
 
+---
 
 ## Coursework Projects
 
@@ -60,26 +60,31 @@ ___
 An extension of my [GDMC](https://github.com/colordepth/google-drive-me-crazy), but now completely self-sufficient. It now uses distributed storage (S3), file encryption and ElasticSearch for fuzzy search indexing.
 
 <p><img src="https://github.com/colordepth/colordepth/assets/88599943/afce54b8-d19b-483d-84bd-e6600aea5bf7" width="90%"></p>
+
 ___
 
 ### 4. CUDA-based decision trees and random forest
 Final project for the course GPU Computing.
-_TODO: Add benchmarks_
 
-___
+_TODO: Add benchmarks_
 
 ### 5. Multi-variate decision trees using logistic regression
 <p>Created a python library for the algorithm implementation with support for scikit.</p>
 
-<img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="320">
-<p>^^Sample AUC scores for the algorithm provided in this library.</p>
-
-___
+<!--<img src="https://github.com/colordepth/colordepth/assets/88599943/2050b609-8273-4b3d-b9d3-fb5d31ed5449" width="320"> -->
+<!-- <p>^^Sample AUC scores for the algorithm provided in this library.</p> -->
 
 ### 6. LSH pair matching, network clustering of research papers (Big Data Analytics)
 <p>Applied big data analytic techniques on research paper citation data.</p>
-<p><img src="https://github.com/colordepth/colordepth/assets/88599943/1d196cd9-d0fe-4de4-96a6-ee3098438b3b" width="512"></p>
-<p><img src="https://github.com/colordepth/colordepth/assets/88599943/775cdc6d-2e29-437f-a002-1f2f22bc316d" width="290"></p>
+<p>Repo incoming!</p>
+<!-- <p><img src="https://github.com/colordepth/colordepth/assets/88599943/1d196cd9-d0fe-4de4-96a6-ee3098438b3b" width="512"></p> -->
+<!-- <p><img src="https://github.com/colordepth/colordepth/assets/88599943/775cdc6d-2e29-437f-a002-1f2f22bc316d" width="290"></p> -->
 
 <!-- <p><img src="https://github.com/colordepth/colordepth/assets/88599943/fac1e294-b787-4849-89c9-700ce88ce6fd" width="256"></p>
 <p>Figure: Citation graph of research papers (sparse)</p> -->
+
+## Hackathon Projects
+See my [DevPost](https://devpost.com/colordepth).
+
+## Secrets
+[Public Key](https://gist.github.com/colordepth/4da2cdbdf7b5e1a283fafe94133f4262)
