@@ -32,7 +32,7 @@
 
 <img src="https://github.com/colordepth/colordepth/assets/88599943/b45898c6-add9-4b6a-aa71-3bdf928d2eea" width="600">
 
-<br/>
+<br/><br/>
 
 **Screenshot: AR Playground**
 
