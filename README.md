@@ -38,11 +38,7 @@
 </p>
  -->
 
-### Currently Working On...
-- Portfolio website
-- Blue Crab Torrent Client
-- Google Drive Me Crazy
-- Various school projects...
-
-### Find me at...
-[My Website!](https://www.deep.moe) (Under design and construction)<br>
+### Interests
+- Data Mining, Big Data Analytics
+- Deep Learning (Recommender Systems)
+- System Design and Scalable Information Retrieval Systems
